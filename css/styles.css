@@ -1,0 +1,107 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+  background-color: powderblue;
+}
+
+hr{
+  border-style: none;
+  border: dotted #A9A9A9 6px ;
+  border-bottom: none;
+  width: 5%;
+  color:
+
+}
+
+h1{
+
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+}
+
+
+h2 {
+  margin-top: 0;
+  font-family: 'Montserrat' , sans-serif;
+  color:#66BFBF;
+  font-weight: normal;
+
+}
+
+h3 {
+  font-family: 'Montserrat',sans-serif;
+  color: #11999E;
+}
+
+a {
+  color:#11999E;
+}
+
+.pro {
+  text-decoration: underline;
+}
+/*************image***********/
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+/****************************div element************/
+.top-container{
+
+  position: relative;
+  padding-top: 100px;
+/*  border: solid 10px;*/
+
+/*  padding: 20px;*/
+
+}
+
+
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.skills-image {
+  float: left;
+   width: 25%;
+   border-radius: 100%;
+   margin-right: 30px;
+
+}
+.chilli-image {
+  float: right;
+  width: 25%;
+  border-radius: 100%;
+  margin-left: 30px;
+
+}
+
+.top-cloud {
+  width:15%;
+  position: absolute;
+  margin-left: 200px;
+  top:20px;
+
+
+}
+.bottom-cloud {
+  width: 15%;
+  position: absolute;
+  right: 700px;
+  margin-bottom:0;
+  bottom: 0;
+}
+.bottom-container {
+    background-color:#66BFBF;
+}
